@@ -1,0 +1,14 @@
+﻿Build started 4/24/2015 3:26:31 PM.
+     1>Project "H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Binary Tree\Binary Tree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Lab 15 Binary Tree.cpp"
+         Lab 15 Binary Tree.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Debug\Binary Tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Debug\Binary Tree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Debug\Binary Tree.lib" /MACHINE:X86 "Debug\IntBinaryTree(6).obj"
+         "Debug\Lab 15 Binary Tree.obj"
+         Binary Tree.vcxproj -> H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Debug\Binary Tree.exe
+     1>Done Building Project "H:\CSCI 41\Lab 15 Binary Tree\Binary Tree\Binary Tree\Binary Tree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.08
